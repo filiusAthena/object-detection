@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1
+kind: User
+metadata:
+  name: cbum
+  description: "Catalog entry for the User entity"
+  tags:
+    - user
+    - metadata
+spec: // Define additional metadata about the User entity
